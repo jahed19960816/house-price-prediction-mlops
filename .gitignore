@@ -127,3 +127,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# MLflow
+mlruns/
+
+# Logs
+logs/
+
+# CatBoost
+catboost_info/
