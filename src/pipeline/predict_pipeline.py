@@ -20,7 +20,7 @@ class PredictPipeline:
             preprocessor=load_object(file_path=preprocessor_path)
             feature_selector = load_object(file_path=feature_selector_path)
             default_values = load_object(file_path=default_values_path)
-            
+                                                                                                                                                
 
             input_data = default_values.copy()
 
